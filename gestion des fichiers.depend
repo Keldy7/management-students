@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1590878966 source:c:\users\bouad\desktop\tp code block c\gestion des fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592403744 source:c:\users\bouad\desktop\projet language c\gestion des fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612475972 source:e:\projet de langage c ts stic 2020-2021\coldheart bill et  kouassy besse aude\gestion_fichiers_etudiant c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
